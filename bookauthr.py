@@ -11,5 +11,5 @@ class Book:
         print("author",self.author)
         print("pages",self.pages)
 
-b1=Book("junglebook","john",243)
+b1=Book("Rich dad poor dad","john",243)
 b1.define_info()
